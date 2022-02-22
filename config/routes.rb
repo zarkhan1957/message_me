@@ -5,4 +5,5 @@ Rails.application.routes.draw do
   # root "articles#index"
   get "hamzaasif", to: "hamza#asif"
   root "hamza#asif"
+  root "hamza#asif2"
 end
